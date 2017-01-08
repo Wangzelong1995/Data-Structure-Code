@@ -1,0 +1,14 @@
+IMAGE
+map-custom.jpg
+350
+364
+
+VERTEXES
+Yulin;211;54
+Xi'an;195;247
+Hanzhong(home);123;305
+
+EDGES
+Hanzhong(home);Xi'an;294
+Hanzhong(home);Yulin;841
+Xi'an;Yulin;555
